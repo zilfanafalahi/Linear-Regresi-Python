@@ -4,8 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import style
 style.use("ggplot")
-# hasil_kecerdasan = [ 6 , 9 , 3 , 8 , 7 , 5 , 8 , 10 ]
-# hasil_produksi_lusin = [ 30 , 49 , 18 , 42 , 39 , 25 , 41 , 52 ]
+
 
 def inputnilai():
     x = []
