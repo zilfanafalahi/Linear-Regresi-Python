@@ -13,4 +13,4 @@ Nama Kelompok :
 8. Yulistiana
 9. Zilfana Falahi
 
-learning code by https://gist.github.com/lol97/e53b53e55200e9365f9ee926df50a5ae
+learn code from https://gist.github.com/lol97/e53b53e55200e9365f9ee926df50a5ae
